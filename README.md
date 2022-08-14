@@ -29,8 +29,8 @@
   <a href="https://www.youtube.com/micheltrilha" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></p>
 <p>YouTube Institucional (aulas não listadas)
   <a href="https://www.youtube.com/channel/UCp07IJzj_MawhnCPU3qmIiA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- </p>
-  ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg)
  
+  ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg)
+ </p>
  
 </div>
