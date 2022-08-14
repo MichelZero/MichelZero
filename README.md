@@ -11,8 +11,10 @@
 
 <div> 
 <p>
-YouTube pessoal (posto de tudo)
-  <a href="https://www.youtube.com/micheltrilha" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<p>YouTube pessoal (posto de tudo)
+  <a href="https://www.youtube.com/micheltrilha" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></p>
+  YouTube Institucional (aulas não listadas)
+    <a href="[https://www.youtube.com/micheltrilha](https://www.youtube.com/channel/UCp07IJzj_MawhnCPU3qmIiA)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  </p>
  
  
