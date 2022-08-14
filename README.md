@@ -30,8 +30,6 @@
   <img align="center" alt="Michel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Michel-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Michel-FieBase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Michel-Intellj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Michel-WebStorm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
@@ -41,9 +39,14 @@
   <img align="center" alt="Michel-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Michel-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Michel-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
-  <img align="center" alt="Michel-MSDOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Michel-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="Michel-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
+  <img align="center" alt="Michel-Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="Michel-MSDOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
+</div>
 
   
   
