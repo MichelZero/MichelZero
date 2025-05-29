@@ -3,7 +3,7 @@
   <a href="https://github.com/MichelZero">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelZero&layout=compact&langs_count=7&theme=dracula" alt="xiaoluoboding's github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MichelZero&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MichelZero&theme=dracula&row=1&column=7" alt="xiaoluoboding's github trophy stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichelZero&theme=dracula" alt="xiaoluoboding's github profile summary cards" />
   </a> 
 </div>
 
