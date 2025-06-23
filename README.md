@@ -66,11 +66,11 @@
   <a href="https://www.youtube.com/channel/UCp07IJzj_MawhnCPU3qmIiA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
   <p>Página de Algoritmos e Programação
-    <a href="https://michelzero.github.io/Progressao-Algoritmos/" target="_blank"><img src="https://img.shields.io/badge/Progressão%20Algoritmos-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://michelzero.github.io/Progressao-Algoritmos/" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Algoritmos-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </p>
   
   <p>Página de Programação Orientada a Objetos
-    <a href="https://michelzero.github.io/Progressao-POO/" target="_blank"><img src="https://img.shields.io/badge/Progressão%20POO-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://michelzero.github.io/Progressao-POO/" target="_blank"><img src="https://img.shields.io/badge/Aulas%20POO-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </p>
  
   ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg)
