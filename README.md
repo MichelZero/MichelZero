@@ -71,9 +71,17 @@
   
   <p>Página de Programação Orientada a Objetos
     <a href="https://michelzero.github.io/Progressao-POO/" target="_blank"><img src="https://img.shields.io/badge/Aulas%20POO-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </p> 
+  
+  <p>Página de Arquitetura de Hardware
+    <a href="https://michelzero.github.io/arquitetura-de-hardware/" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Arquitetura-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </p>
+
+  <p>Página de Programação para Crianças
+    <a href="https://michelzero.github.io/aulas-prog-infantil-A/index.html" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Prog.%20Infantil-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </p>
  
-  ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg) -->
 
  
 </div>
