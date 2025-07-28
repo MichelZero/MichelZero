@@ -80,6 +80,12 @@
   <p>Página de Programação para Crianças
     <a href="https://michelzero.github.io/aulas-prog-infantil-A/index.html" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Prog.%20Infantil-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </p>
+
+  <p>Página sobre Microcontroladores
+    <a href="https://  <p>Página de Programação para Crianças
+    <a href="https://michelzero.github.io/aulas-prog-infantil-A/index.html" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Prog.%20Infantil-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </p>/index.html" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Prog.%20Infantil-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </p>
  
   <!-- ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg) -->
 
