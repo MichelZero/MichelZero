@@ -84,6 +84,10 @@
   <p>Página sobre Microcontroladores
     <a href="https://michelzero.github.io/microcontroladores/" target="_blank"><img src="https://img.shields.io/badge/Aulas%20Microcontroladores-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </p>
+
+  <p>Template HTML e CSS
+    <a href="https://michelzero.github.io/template-html-css/" target="_blank"><img src="https://img.shields.io/badge/Template%20HTML%20e%20CSS-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </p>
  
   <!-- ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg) -->
 
