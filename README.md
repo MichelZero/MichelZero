@@ -89,8 +89,8 @@
     <a href="https://michelzero.github.io/template-html-css/" target="_blank"><img src="https://img.shields.io/badge/Template%20HTML%20e%20CSS-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </p>
 
-  <p>Software livre: A luta pela liberdade do conhecimento
-    <a href="https://fpabramo.org.br/editora/livro/software-livre-a-luta-pela-liberdade-do-conhecimento/" target="_blank"><img src="https://img.shields.io/badge/Template%20HTML%20e%20CSS-2d72d9?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <p>Livro: Software Livre - A luta pela liberdade do conhecimento
+    <a href="https://fpabramo.org.br/editora/livro/software-livre-a-luta-pela-liberdade-do-conhecimento/" target="_blank"><img src="https://img.shields.io/badge/Software%20Livre-2d72d9?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>
   </p>
  
   <!-- ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg) -->
