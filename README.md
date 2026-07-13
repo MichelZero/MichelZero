@@ -97,7 +97,7 @@
     <a href="https://michelzero.github.io/mikrotik/" target="_blank"><img src="https://img.shields.io/badge/MikroTik%20Tutoriais-2d72d9?style=for-the-badge&logo=MikroTik&logoColor=white" target="_blank"></a>
 
   <p> Link LAB
-    <a href="https://michelzero.github.io/mikrotik/links-lab/index.html" target="_blank"><img src="https://img.shields.io/badge/Link%20LAB-2d72d9?style=for-the-badge&logo=Cloudflare&logoColor=white" target="_blank"></a>
+    <a href="https://michelzero.github.io/mikrotik/links-lab/index.html" target="_blank"><img src="https://img.shields.io/badge/Link%20LAB-2d72d9?style=for-the-badge&logo=2k&logoColor=white" target="_blank"></a>
   </p>
  
  
