@@ -92,6 +92,14 @@
   <p>Livro: Software Livre - A luta pela liberdade do conhecimento
     <a href="https://fpabramo.org.br/editora/livro/software-livre-a-luta-pela-liberdade-do-conhecimento/" target="_blank"><img src="https://img.shields.io/badge/Software%20Livre-2d72d9?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>
   </p>
+
+  <p>MikroTik: Troubleshooting & Tutoriais
+    <a href="https://michelzero.github.io/mikrotik/" target="_blank"><img src="https://img.shields.io/badge/MikroTik%20Tutoriais-2d72d9?style=for-the-badge&logo=MikroTik&logoColor=white" target="_blank"></a>
+
+  <p> Link LAB
+    <a href="https://michelzero.github.io/mikrotik/links-lab/index.html" target="_blank"><img src="https://img.shields.io/badge/Link%20LAB-2d72d9?style=for-the-badge&logo=Cloudflare&logoColor=white" target="_blank"></a>
+  </p>
+ 
  
   <!-- ![Snake animation](https://github.com/MichelZero/MichelZero/blob/output/github-contribution-grid-snake.svg) -->
 
